@@ -1,0 +1,5 @@
+# Temporary and lock files
+~$*
+*.tmp
+.DS_Store
+Thumbs.db
